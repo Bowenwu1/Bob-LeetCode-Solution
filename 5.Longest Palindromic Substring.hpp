@@ -35,7 +35,7 @@ public:
         return s.substr(l, r - l + 1);
     }
 
-    inline void findLongest(string & s, int left, int right) {
+    void findLongest(string & s, int left, int right) {
         if (s[left] != s[right])
             return;
         while (left > 0 && right < s.length() - 1) {
