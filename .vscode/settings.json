@@ -2,6 +2,14 @@
     "files.associations": {
         "iosfwd": "cpp",
         "iterator": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "__locale": "cpp",
+        "__split_buffer": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "utility": "cpp"
     }
 }
